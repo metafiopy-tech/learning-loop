@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-REPO_URL="https://github.com/YOUR_USERNAME/learning-loop"
+REPO_URL="https://github.com/metafiopy-tech/learning-loop"
 APP_DIR="learning-loop"
 
 echo ""
